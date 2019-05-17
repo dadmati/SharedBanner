@@ -78,10 +78,5 @@ b9oraclqapasswordTerm=
 
 
 ***EXCEL***
-APEXPasswordReset=C:\\Selenium\\Banner9\\Data\\passwordReset.xls
-ExcelPathFinance=C:\\Selenium\\Banner9\\Data\\Finance.xls
-ExcelPath=C:\\Selenium\\MarketingNovaEdu\\Data\\datainput.xls
-ExcelPathfromscript=C:\\Selenium\\MarketingNovaEdu\\Data\\datainputfromscript.xls
-ExcelLoop=C:\\Selenium\\Banner9\\Data\\loop.xls
-SSBData=C:\\Selenium\\Banner9\\Data\\SSB.xls
+
 
