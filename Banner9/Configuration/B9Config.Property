@@ -17,7 +17,7 @@ B9_DEV_URL=ENTER YOUR DEV URL HERE
 
 ***ApplicationNavigator***
 B9_AppNav_Test=ENTER YOUR TEST URL HERE
-B9_AppNav_Prod=https://bannerdev.nova.edu/applicationNavigator/
+B9_AppNav_Prod=ENTER YOUR TEST URL HERE
 B9_AppNav_Dev=ENTER YOUR DEV URL HERE
 B9_AppNav_Stage=ENTER YOUR STAGE URL HERE
 
