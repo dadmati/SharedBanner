@@ -17,7 +17,7 @@ B9_DEV_URL=ENTER YOUR DEV URL HERE
 
 ***ApplicationNavigator***
 B9_AppNav_Test=ENTER YOUR TEST URL HERE
-B9_AppNav_Prod=https://bannerdev.nova.edu/applicationNavigator/
+B9_AppNav_Prod=ENTER YOUR TEST URL HERE
 B9_AppNav_Dev=ENTER YOUR DEV URL HERE
 B9_AppNav_Stage=ENTER YOUR STAGE URL HERE
 
@@ -78,10 +78,5 @@ b9oraclqapasswordTerm=
 
 
 ***EXCEL***
-APEXPasswordReset=C:\\Selenium\\Banner9\\Data\\passwordReset.xls
-ExcelPathFinance=C:\\Selenium\\Banner9\\Data\\Finance.xls
-ExcelPath=C:\\Selenium\\MarketingNovaEdu\\Data\\datainput.xls
-ExcelPathfromscript=C:\\Selenium\\MarketingNovaEdu\\Data\\datainputfromscript.xls
-ExcelLoop=C:\\Selenium\\Banner9\\Data\\loop.xls
-SSBData=C:\\Selenium\\Banner9\\Data\\SSB.xls
+
 
