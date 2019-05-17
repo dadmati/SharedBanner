@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Test">
+		<parameter name="Browser" value="local" />
+		<parameter name="Environment" value="Stage" />
+		<parameter name="OS" value="Win10" />
+		<classes>
+			<class name="General_Pages._22PointCheckValidation"/>
+			<class name="General_Pages.ConfirmHelpMenu"/>
+			<class name="General_Pages.GOAEMAL" />
+			<class name="General_Pages.GOATPAC" />
+			<class name="General_Pages.GUAABOT" />
+			<!-- <class name="General_Pages.GXADIRD" />-->
+						
+			<!--Make sure to add back-->
+			<!-- <class name="General_Pages.GJAJOBS" />-->
+						
+			<class name="General_Pages.GJAJPRF" />
+			<class name="General_Pages.GJAPCTL" />
+			<class name="General_Pages.GJAPDEF" />
+			<class name="General_Pages.GJAPDFT" />
+			<class name="General_Pages.GJAPVAL" />
+			<class name="General_Pages.GJARSLT" />
+			<class name="General_Pages.GJASWPT" />
+			<class name="General_Pages.GJIREVO" />
+			<class name="General_Pages.GJRJPRM" />
+
+			<!--Need to investigate with there is a warning no records exist to query LOV. -->
+			<!-- <class name="General_Pages.GLRSLCT" /> -->
+			<class name="General_Pages.GOAINTL" />
+			<class name="General_Pages.GOAMEDI" />
+			<class name="General_Pages.GORRACE" />
+			<!-- <class name="General_Pages.GTQSDBV" />-->
+			<!-- <class name="General_Pages.GTQSDLV" />-->
+			<class name="General_Pages.GTVACHT" />
+			<class name="General_Pages.GTVADID" />
+			<class name="General_Pages.GTVCCRD" />
+			<class name="General_Pages.GTVCELG" />
+			<class name="General_Pages.GTVCMSC" />
+			<class name="General_Pages.GTVCTYP" />
+			<class name="General_Pages.GTVCURR" />
+			<class name="General_Pages.GTVDADD" />
+			<class name="General_Pages.GTVDICD" />
+			<class name="General_Pages.GTVDIRO" />
+			<class name="General_Pages.GTVEMAL" />
+			<class name="General_Pages.GTVEMPH" />
+			<class name="General_Pages.GTVEXPN" />
+			<class name="General_Pages.GTVFEES" />
+			<class name="General_Pages.GTVFSTA" />
+			<class name="General_Pages.GTVFTYP" />
+
+<!-- Need to investigate if we need to first insert into form 0706 in order for query results to show. -->
+			<!-- <class name="General_Pages.GTVFUNC" /> -->
+			<class name="General_Pages.GTVLETR" />
+			<class name="General_Pages.GTVMAIL" />
+			<class name="General_Pages.GTVMENU" />
+			<class name="General_Pages.GTVNTYP" />
+			<class name="General_Pages.GTVPARA" />
+
+<!-- Need to investigate if we need to first insert into form NOPRNT in order for query results to show. -->
+			<!-- <class name="General_Pages.GTVPRNT" /> -->
+			<class name="General_Pages.GTVPTYP" />
+			<class name="General_Pages.GTVPURP" />
+			<class name="General_Pages.GTVQUIK" />
+			<class name="General_Pages.GTVRATE" />
+			<class name="General_Pages.GTVREVN" />
+			<class name="General_Pages.GXVDIRD" />
+			<class name="General_Pages.GTVRRAC" />
+			<class name="General_Pages.GTVRSVP" />
+			
+
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

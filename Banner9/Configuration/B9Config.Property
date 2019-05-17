@@ -1,0 +1,87 @@
+
+***WEBDRIVERS***
+FFDriver=C:\\Selenium\\webdrivers\\geckodriver.exe
+ChromeDriver=C:\\Selenium\\webdrivers\\chromedriver.exe
+IEDriver=C:\\Selenium\\webdrivers\\IEDriverServer.exe
+
+
+***HUBS***
+HUBURL=ENTER YOUR HUB URL HERE
+
+
+***BASEURLS***
+B9_PROD_URL=ENTER YOUR PROD URL HERE
+B9_STAGE_URL=ENTER YOUR STAGE URL HERE
+B9_TEST_URL=ENTER YOUR TEST URL HERE
+B9_DEV_URL=ENTER YOUR DEV URL HERE
+
+***ApplicationNavigator***
+B9_AppNav_Test=ENTER YOUR TEST URL HERE
+B9_AppNav_Prod=https://bannerdev.nova.edu/applicationNavigator/
+B9_AppNav_Dev=ENTER YOUR DEV URL HERE
+B9_AppNav_Stage=ENTER YOUR STAGE URL HERE
+
+
+***SSB***
+//Test
+SSBGenTest=ENTER YOUR SSB URL HERE
+SSBFacTest=ENTER YOUR SSB URL HERE
+SSBStuTest=ENTER YOUR SSB URL HERE
+SSBEmpTest=ENTER YOUR SSB URL HERE
+SSBFinTest=ENTER YOUR SSB URL HERE
+SSBStuRegTest=ENTER YOUR SSB URL HERE
+//Stage
+SSBGenStage=ENTER YOUR SSB URL HERE
+SSBFacStage=ENTER YOUR SSB URL HERE
+SSBStuStage=ENTER YOUR SSB URL HERE
+SSBEmpStage=ENTER YOUR SSB URL HERE
+SSBFinStage=ENTER YOUR SSB URL HERE
+SSBStuRegStage=ENTER YOUR SSB URL HERE
+SSBCommStage=ENTER YOUR SSB URL HERE
+                
+               
+               
+               
+                                  
+               
+
+***APP Central Username and Password***
+
+b9qausernames=
+b9qapasswords=
+b9qausername=
+b9qapassword=
+b9qausername2=
+b9qapassword2=
+
+b9ssbqausername=
+b9ssbqapassword=
+
+
+
+
+
+
+***SQL Username and Password***
+***ENTER YOUR SSB URL HERE
+jdbc:sqlserver://pancakehead.sys.nova.edu\\orareplica;databaseName=OraCDCDB
+qausername=
+qapassword=
+qapassword2=
+pancakehead=
+
+b9oracleusername=
+b9oraclqapassword=
+
+b9oracleusernameTerm=
+b9oraclqapasswordTerm=
+
+
+***EXCEL***
+APEXPasswordReset=C:\\Selenium\\Banner9\\Data\\passwordReset.xls
+ExcelPathFinance=C:\\Selenium\\Banner9\\Data\\Finance.xls
+ExcelPath=C:\\Selenium\\MarketingNovaEdu\\Data\\datainput.xls
+ExcelPathfromscript=C:\\Selenium\\MarketingNovaEdu\\Data\\datainputfromscript.xls
+ExcelLoop=C:\\Selenium\\Banner9\\Data\\loop.xls
+SSBData=C:\\Selenium\\Banner9\\Data\\SSB.xls
+

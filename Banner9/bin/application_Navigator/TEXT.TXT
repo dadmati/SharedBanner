@@ -1,0 +1,9 @@
+We got the UAT approval on Thursday. While Shafiul was doing the testing, UAT approved, but then Shafiul found an issue with the Country, which was sent to the team about the issue. We were not sure if we should fix it right away because it might cause regression issues, so the issue was not fixed as we kept postponing due to multiple regression issues found and resolved.
+
+The other issue is more unique, where one person can't see their name. It is now fixed in CAMP and will be moving to Production.
+
+We are working on the country issue.
+
+There is an issue with the phone that cannot be reproduced.
+
+The issue with the email, Tamela is working on it, but it is not a consistent issue, it is intermitent.
